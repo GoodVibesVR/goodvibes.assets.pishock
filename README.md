@@ -19,6 +19,13 @@ This package contains everything you need in order to setup PiShock for your ver
 PiShock is a remote shocker for adult use and it's possible to control yours or someone elses PiShock using an API. GoodVibes have this already implemented in an easy to use interface (If you want to see how GoodVibes work please watch https://youtu.be/soi9iFwE3Bg). 
 PiShock works in a way where you need to set the intensity and the duration of an action, you can have your master do this if you trust them completely or with the use of this prefab you can have your master control the action of your PiShock using Avatar Dynamics, while you're still in complete control of duration and intensity yourself. This package also contains everything you need as a master to remote control your pet/sub using the radial menu.
 
+## Help and support
+Are you having issues? 
+Want to support or contribute the project? 
+Want to hang out? 
+
+Please head over to our [Discord](https://discord.gg/R2tTCB7MNC).
+
 ## How to set it up
 The README.txt contains all information on how to set up the PiShock and the Remote if you happen to lose this repository.
 
